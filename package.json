@@ -1,6 +1,6 @@
 {
-  "name": "react-dc",
-  "version": "1.0.6",
+  "name": "@theclinician/react-dc",
+  "version": "1.0.7",
   "description": "React bindings for dc.js charts",
   "main": "dist/react-dc.js",
   "module": "dist/module/react-dc.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WaldoJeffers/react-dc.git"
+    "url": "git+https://github.com/theclinician/react-dc.git"
   },
   "keywords": [
     "react",
@@ -24,12 +24,12 @@
     "chart",
     "crossfilter"
   ],
-  "author": "WaldoJeffers",
+  "author": "Edmund Kwok",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WaldoJeffers/react-dc/issues"
+    "url": "https://github.com/theclinician/react-dc/issues"
   },
-  "homepage": "https://github.com/WaldoJeffers/react-dc#readme",
+  "homepage": "https://github.com/theclinician/react-dc#readme",
   "dependencies": {
     "dc": "^2.0.0"
   },
