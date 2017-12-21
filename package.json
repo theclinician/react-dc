@@ -1,6 +1,6 @@
 {
   "name": "@theclinician/react-dc",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React bindings for dc.js charts",
   "main": "dist/react-dc.js",
   "module": "dist/module/react-dc.js",
